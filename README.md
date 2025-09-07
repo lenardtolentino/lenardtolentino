@@ -13,13 +13,12 @@
 ---
 
 ## 🛠️ Skill Stack  
+[<img src="https://img.icons8.com/?size=100&id=qYfwpsRXEcpc&format=png&color=000000" width="40"/>](#)
+[<img src="https://img.icons8.com/?size=100&id=J6KcaRLsTgpZ&format=png&color=000000" width="40"/>](#)
+[<img src="https://img.icons8.com/?size=100&id=hZvpN3zV45Yf&format=png&color=000000" width="40"/>](#)
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Power%20Query-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-</p>  
+
+
 
 Also comfortable with: **Excel (advanced), Data Visualization, Data Cleaning, Data Preparation**  
 
@@ -30,30 +29,17 @@ Also comfortable with: **Excel (advanced), Data Visualization, Data Cleaning, Da
 - 🔗 [GitHub Repositories](https://github.com/lenardtolentino?tab=repositories) – Explore my projects and code.  
 
 ---
-
 ## 🎓 Certifications  
-- 🏅 IBM Data Analysis in Python (Coursera)  
-- 🏅 Power Pivot in Excel (Udemy)  
+
+- <img src="https://img.icons8.com/?size=100&id=brPKCGmHqb0l&format=png&color=000000" width="20" /> 🏅 IBM Data Analysis in Python (Coursera)  
+- <img src="https://img.icons8.com/?size=100&id=uCUr45IJh8vV&format=png&color=000000" width="20" /> 🏅 Power Pivot in Excel (Udemy)  
 
 ---
 
 ## 🌐 Connect with Me  
 
-### 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lenardtolentino/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/lenardtolentino)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:tolentinolenard2@gmail.com)
-
-
----
-
-## 📈 GitHub Stats  
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=lenardtolentino&show_icons=true&theme=tokyonight" alt="Lenard's GitHub stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lenardtolentino&layout=compact&theme=tokyonight" alt="Top Languages" height="150"/>
-</p>  
-
----
 
 ⭐ *“Data is the new oil, but insights are the fuel that powers decisions.”*  
