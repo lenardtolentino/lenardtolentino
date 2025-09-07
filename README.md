@@ -39,17 +39,11 @@ Also comfortable with: **Excel (advanced), Data Visualization, Data Cleaning, Da
 
 ## 🌐 Connect with Me  
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/lenardtolentino/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://sites.google.com/view/myportfolio11111/home">
-    <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-  <a href="https://drive.google.com/file/d/1GNuTDm-Mjf42Ej47OGfRI-g6GL3aYYnf/view">
-    <img src="https://img.shields.io/badge/Resume-34A853?style=for-the-badge&logo=googledrive&logoColor=white" />
-  </a>
-</p>  
+### 🌐 Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lenardtolentino/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/lenardtolentino)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:tolentinolenard2@gmail.com)
+
 
 ---
 
